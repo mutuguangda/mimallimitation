@@ -1,2 +1,2 @@
-在线演示 [demo](https://studyfather7.github.io/mimallimitation/dist/)
+在线演示 [demo](https://mutuguangda.github.io/mimallimitation/dist/)
 
